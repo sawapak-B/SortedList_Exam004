@@ -1,0 +1,8 @@
+D:\C#\SortedList_Exam004\SortedList_Exam004\bin\Debug\SortedList_Exam004.exe.config
+D:\C#\SortedList_Exam004\SortedList_Exam004\bin\Debug\SortedList_Exam004.exe
+D:\C#\SortedList_Exam004\SortedList_Exam004\bin\Debug\SortedList_Exam004.pdb
+D:\C#\SortedList_Exam004\SortedList_Exam004\obj\Debug\SortedList_Exam004.Form1.resources
+D:\C#\SortedList_Exam004\SortedList_Exam004\obj\Debug\SortedList_Exam004.Properties.Resources.resources
+D:\C#\SortedList_Exam004\SortedList_Exam004\obj\Debug\SortedList_Exam004.csproj.GenerateResource.Cache
+D:\C#\SortedList_Exam004\SortedList_Exam004\obj\Debug\SortedList_Exam004.exe
+D:\C#\SortedList_Exam004\SortedList_Exam004\obj\Debug\SortedList_Exam004.pdb
